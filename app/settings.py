@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': 'carros',
         'USER': 'postgres',
-        'PASSWORD': '11@22@33',
+        'PASSWORD': 'Django10',
         'HOST': 'localhost',
         'PORT': '5432',
     }
