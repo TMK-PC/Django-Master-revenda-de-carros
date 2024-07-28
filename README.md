@@ -1,0 +1,1 @@
+1- O projeto em si é bem básico, sem permissões nem nada, mas decidi deixar público, tenho alguns projetos mais avançados em meu perfil.<br> 2- Este projeto é feito para rodar na AWS, então não conta com banco de dados, e tem algumas coisas para conseguir rodar com NGINX e uWSGI
